@@ -1,0 +1,20 @@
+Thanks to:
+
+ESR        for creating the campaign design how-to
+
+Sapient    for answering WML questions
+Ken_Oh
+beetlenaut
+zookeeper
+
+Wayfarer   creator of the base image used as a placeholder for the Lord of Decay
+
+All the campaign designers who came before me, for inspiration (and snippets of code)
+
+The developers of Battle for Wesnoth for making all of this possible
+
+And Michelle, the love of my life, without whose encouragement this whole thing would never have
+gotten off the ground.
+
+Ruin graphics from Reiner "Tiles" Prokein (free to use with credit given).  
+See his website at http://reinerstileset.4players.de/buildingsE.html

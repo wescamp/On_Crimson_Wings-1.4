@@ -1,0 +1,9 @@
+Corrupted woses were created by the following process:
+
+1) Add two duplicate layers of the first
+2) Create opaque filter masks for each new layer
+3) Edit the top filter to be transparent (black) everywhere but eyes
+4) Edit the middle filter to be transparent at shadow & everywhere team-colored
+5) Desaturate the middle image 20%
+6) Colorify the top image red
+7) Merge layers and save
