@@ -1,0 +1,2855 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2009-01-21 01:13+0100\n"
+"PO-Revision-Date: 2009-01-21 01:13+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+#. [campaign]: id=On_Crimson_Wings
+#: On_Crimson_Wings/_main.cfg:17
+msgid "On Crimson Wings"
+msgstr ""
+
+#. [campaign]: id=On_Crimson_Wings
+#: On_Crimson_Wings/_main.cfg:23
+msgid "Fighter"
+msgstr ""
+
+#. [campaign]: id=On_Crimson_Wings
+#: On_Crimson_Wings/_main.cfg:23
+msgid "Blademaster"
+msgstr ""
+
+#. [campaign]: id=On_Crimson_Wings
+#: On_Crimson_Wings/_main.cfg:23
+msgid "Warrior"
+msgstr ""
+
+#. [campaign]: id=On_Crimson_Wings
+#: On_Crimson_Wings/_main.cfg:23
+msgid "(Easy)"
+msgstr ""
+
+#. [campaign]: id=On_Crimson_Wings
+#: On_Crimson_Wings/_main.cfg:23
+msgid "(Difficult)"
+msgstr ""
+
+#. [campaign]: id=On_Crimson_Wings
+#: On_Crimson_Wings/_main.cfg:23
+msgid "(Normal)"
+msgstr ""
+
+#. [campaign]: id=On_Crimson_Wings
+#: On_Crimson_Wings/_main.cfg:31
+msgid ""
+"Regar, king of the Crimsonwing Drakes, is dead.  Feralon, his son and heir, "
+"seeks to secure his throne and exact vengeance on those who have wronged his "
+"people.\n"
+"    \n"
+"Version 0.4.0\n"
+"5 scenarios (of 13?) completed and playable (if not finished)"
+msgstr ""
+
+#. [about]
+#: On_Crimson_Wings/_main.cfg:40
+msgid "Campaign Design"
+msgstr ""
+
+#. [about]
+#: On_Crimson_Wings/_main.cfg:46
+msgid "Playtesting and Encouragement"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:10
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:391
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:395
+msgid "I will never... fly again..."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:21
+msgid "I should have seen... it coming..."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:26
+msgid "Sister!  No!  I can't go on without you."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:32
+msgid "I didn't plan on this!"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:37
+msgid "I won't weep for that snake, but we needed him."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:43
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:304
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:357
+msgid "Remember... me..."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:48
+msgid "Karath Kor!  I will never forget you, my friend."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:53
+msgid "I always thought it would be... my creditors... who did me in..."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:58
+msgid "A strange little man... and yet, I will miss him."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:65
+msgid "It has been an honor..."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:70
+msgid "Thus dies a brave warrior."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:131
+msgid ""
+"Varnir, you snake, I have to admit I am finding you surprisingly "
+"inspirational."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:145
+msgid ""
+"Varnir, much as I dislike you, I have to admit I am finding you surprisingly "
+"inspirational."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:177
+msgid "I had never realized a net could be such an effective weapon, Jula."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:181
+msgid "I would be happy to teach you to use it, if we have the opportunity."
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:185
+msgid "Jula?"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:212
+msgid "That's quite the pile of gold you have, chief.  How about a loan?"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:213
+msgid "I don't aspire to join your list of creditors."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:230
+msgid "RARRR!  And Regar said I'd never be any use in combat."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:235
+msgid "He told you that?"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:236
+msgid "Not to my face.  He was talking to some of the elders, and I overheard."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:257
+msgid "I hope this hurts!"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:258
+msgid "What was that?"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:281
+msgid "Nicely evaded!  I wish I could dodge attacks as nimbly."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:282
+msgid "Well, it probably helps that I'm not a GIANT LIZARD."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:320
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:341
+msgid "Your knowledge of the healing arts is impressive."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:321
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:342
+msgid ""
+"You can breathe fire!  That's far more impressive.  Anyone could learn some "
+"herbcraft."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:368
+msgid "Skillfully done, little brother!"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:369
+msgid ""
+"You'll never let me forget that you hatched a few hours earlier, will you?"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:390
+msgid "Well done, I suppose."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/macros/ocw_interactions.cfg:391
+msgid "You don't have to sound so... grudging."
+msgstr ""
+
+#: On_Crimson_Wings/macros/ocw_utils.cfg:10
+msgid "Crimsonwing Drakes"
+msgstr ""
+
+#. [side]: type=Drake Fighter, description=Feralon
+#. [side]: type=Feralon1, description=Feralon
+#: On_Crimson_Wings/macros/ocw_utils.cfg:14
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:38
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:69
+msgid "Feralon"
+msgstr ""
+
+#. [label]
+#: On_Crimson_Wings/macros/ocw_utils.cfg:24
+msgid "Tombs of the Kings"
+msgstr ""
+
+#. [label]
+#: On_Crimson_Wings/macros/ocw_utils.cfg:33
+msgid "Hatching Grounds"
+msgstr ""
+
+#. [objective]: condition=lose
+#. [objectives]
+#: On_Crimson_Wings/macros/ocw_utils.cfg:41
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:235
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:270
+msgid "Death of Feralon"
+msgstr ""
+
+#. [objective]: condition=lose
+#: On_Crimson_Wings/macros/ocw_utils.cfg:45
+msgid "Death of Demla Ka"
+msgstr ""
+
+#. [objective]: condition=lose
+#: On_Crimson_Wings/macros/ocw_utils.cfg:49
+msgid "Death of Varnir"
+msgstr ""
+
+#. [scenario]: id=01_The_Ambush
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:12
+msgid "The Ambush"
+msgstr ""
+
+#. [part]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:23
+msgid ""
+"In Wesnoth, little is known of the Crimsonwing Drakes.  Dwelling in the "
+"mountains far to the east, they are said to be arrogant beings who see other "
+"drakes as savages and view other races as little more than targets for "
+"raiding."
+msgstr ""
+
+#. [part]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:27
+msgid ""
+"While there is some truth to these rumors, the Crimsonwing Drakes would say "
+"they simply wanted little to do with outsiders.  Their proud isolation was a "
+"centuries-old tradition."
+msgstr ""
+
+#. [part]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:31
+msgid "This is the tale of how that isolation came to an end."
+msgstr ""
+
+#. [part]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:35
+msgid ""
+"The great Crimson King, Regar, had recently died after a glorious reign, "
+"during which he led the drakes on many raids of the surrounding people - the "
+"human villages and cities, the elves of the Gray Woods, the orc tribes to "
+"the northwest, even the nomadic people of the Great Desert.  From each raid, "
+"they had returned with gold and glory."
+msgstr ""
+
+#. [part]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:39
+msgid ""
+"Regar had never publicly named his successor.  Most expected that he would "
+"choose the bravest and strongest of his many sons, Feralon.  On his "
+"deathbed, Regar confirmed to Feralon that he was to be the next king.  But "
+"there were few witnesses to Regar's words."
+msgstr ""
+
+#. [part]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:43
+msgid ""
+"Another of Regar's sons, the wily Varnir, claimed to the members of his "
+"caste that Regar had promised the throne to him.  The Crimsonwing Drakes "
+"awaited the traditional challenge to single combat, but none came.  Varnir "
+"seemed content to lie low and sow dissent."
+msgstr ""
+
+#. [part]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:47
+msgid ""
+"One month after Regar's death, the situation remained unresolved.  To escape "
+"the tension, Feralon took his oldest friend, Karath Kor, and four other "
+"comrades for a hunt in the eastern forests.  After sating their hunger, they "
+"flew homeward at dusk."
+msgstr ""
+
+#. [side]: type=Drake Fighter, description=Feralon
+#. [side]: type=Feralon1, description=Feralon
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:34
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:65
+msgid "Loyal Drakes"
+msgstr ""
+
+#. [side]: type=Varnir1, description=Varnir
+#. [side]
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:53
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:87
+msgid "Rebel Drakes"
+msgstr ""
+
+#. [unit]: type=$stored_Galgor.type, description=Galgor
+#. [unit]: type=Drake Burner, type=Drake Flare, description=Galgor
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:257
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:133
+msgid "Galgor"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:176
+msgid ""
+"We are here just in time.  Feralon should return from the hunt momentarily.  "
+"Drakes, ready yourselves!"
+msgstr ""
+
+#. [unit]: type=Drake Fighter, description=Karath Kor
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:210
+msgid "Karath Kor"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:240
+msgid ""
+"What is this, fellow drakes?  It is too late in the day for good hunting."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:241
+msgid "We are not hunting.  At least, not hunting for food."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:242
+msgid ""
+"Ah, Galgor.  Sent by your master, Varnir, no doubt?  I expected him to at "
+"least challenge me in person, in accordance with the ancient traditions."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:243
+msgid ""
+"He has delegated the honor to me.  Feralon, your short reign ends tonight!"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:245
+msgid ""
+"I am the rightful king by my father's will, and it will take more than three "
+"traitors to bring me down!"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:248
+msgid ""
+"I am the rightful king by my father's will, and it will take more than four "
+"traitors to bring me down!"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:251
+msgid ""
+"I am the rightful king by my father's will, and it will take more than five "
+"traitors to bring me down!"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:253
+msgid "Then I'm glad many more loyal subjects of KING Varnir accompanied me..."
+msgstr ""
+
+#. [objectives]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:268
+msgid "Feralon reaches the western map edge"
+msgstr ""
+
+#. [objectives]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:269
+msgid " OR kill all of the rebel drakes"
+msgstr ""
+
+#. [objectives]
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:236
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:271
+msgid "Time runs out"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:292
+msgid "Reinforcements, at last!  After him, drakes!"
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:295
+msgid ""
+"Galgor!  We heard you were hard-pressed and came as quickly as we could!"
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:296
+msgid "Galgor?"
+msgstr ""
+
+#. [scenario]: id=01_The_Ambush
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:300
+msgid "Beware!  More drakes have arrived, and they don't look friendly!"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:351
+msgid "Don't... think this will... save you..."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:309
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:362
+msgid "Karath Kor!  May your spirit guide my scimitar to Varnir's heart."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:368
+msgid "Make way before your king!"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:373
+msgid "My king, I strike this blow for you!"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:378
+msgid "You dare strike a blow against your rightful king?"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:379
+msgid "I do, and Varnir will reward me richly for it."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:384
+msgid "Death at my hands is too good for you rabble."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:389
+msgid "A futile effort, but at least you die with some honor."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:396
+msgid "King Feralon!  I would have given my life to save you!"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:407
+msgid ""
+"I sight a swarm of hostile drakes approaching from the west.  I shall never "
+"see home again."
+msgstr ""
+
+#. [event]: description=Feralon}
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:413
+msgid "I have escaped.  Now to seek my revenge on Varnir!"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:417
+msgid "I'll keep them from following you.  May your blade strike true!"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:418
+msgid ""
+"I'll always remember you, Karath Kor!  In your name, I will drive my "
+"scimitar into Varnir's heart."
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:453
+msgid ""
+"I think we can see which way the wind is blowing.  Let's escape while we can!"
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:455
+msgid "A glorious victory!  The foe is driven before us!"
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/01_The_Ambush.cfg:456
+msgid "Victory, but at what cost?  I must hurry to confront Varnir!"
+msgstr ""
+
+#. [scenario]: id=02_Pitting_Drake_Against_Drake
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:12
+msgid "Drake Pitted Against Drake"
+msgstr ""
+
+#. [side]: type=Varnir1, description=Varnir
+#. [unit]: type=$varnir_store.type, description=Varnir
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:57
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:211
+msgid "Varnir"
+msgstr ""
+
+#. [side]
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:80
+msgid "Varnir's Guards"
+msgstr ""
+
+#. [unit]: type=Sky Drake, description=Demla Ka
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:145
+msgid "Demla Ka"
+msgstr ""
+
+#. [event]: description=Varnir 4 4}, (description=Demla Ka) facing se}
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:162
+msgid ""
+"Feralon has fled rather than confront me.  You must acknowledge me as King "
+"of the Crimsonwing Drakes."
+msgstr ""
+
+#. [event]: description=Varnir 4 4}, (description=Demla Ka) facing se}
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:163
+msgid ""
+"I'd sooner swallow molten rock.  My brood-brother will return and make you "
+"pay for this effrontery!"
+msgstr ""
+
+#. [event]: description=Varnir 4 4}, (description=Demla Ka) facing se}
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:164
+msgid "I doubt that very much."
+msgstr ""
+
+#. [event]: description=Varnir 4 4}, (description=Demla Ka) facing se}
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:177
+msgid "Am I interrupting something?"
+msgstr ""
+
+#. [event]: description=Varnir 4 4}, (description=Demla Ka) facing se}
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:180
+msgid "The pretender has returned!  Loyal drakes, bring me his head!"
+msgstr ""
+
+#. [event]: description=Varnir 4 4}, (description=Demla Ka) facing se}
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:188
+msgid ""
+"Feralon!  Varnir was just claiming you had fled.  He's been strutting about, "
+"proclaiming himself King."
+msgstr ""
+
+#. [event]: description=Varnir 4 4}, (description=Demla Ka) facing se}
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:189
+msgid ""
+"Fled, ha!  He sent Galgor and a dozen drakes to ensure I never returned."
+msgstr ""
+
+#. [event]: description=Varnir 4 4}, (description=Demla Ka) facing se}
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:190
+msgid ""
+"Galgor is a snake.  He's been fanning the flames of Varnir's ambition.  I "
+"warned you about him."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:195
+msgid ""
+"He's pursuing me with a flight of drakes.  We must look warily to the east."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:201
+msgid ""
+"He won't trouble us again, but a flight of drakes still pursues me from the "
+"east."
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:204
+msgid "He and his drakes have been dealt with.  They won't cause any trouble."
+msgstr ""
+
+#. [event]: description=Varnir 4 4}, (description=Demla Ka) facing se}
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:210
+msgid "Once you challenge and defeat Varnir, no one will dare to threaten you."
+msgstr ""
+
+#. [event]: description=Varnir 4 4}, (description=Demla Ka) facing se}
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:211
+msgid ""
+"He won't accept the challenge to single combat, and his followers seemed "
+"undisturbed by his shirking of our traditions.  No, brood-sister, this will "
+"only be settled on the battlefield."
+msgstr ""
+
+#. [event]: description=Varnir 4 4}, (description=Demla Ka) facing se}
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:212
+msgid ""
+"That's madness!  Of all our traditions, you will upend this one?  How many "
+"drakes will perish needlessly?"
+msgstr ""
+
+#. [event]: description=Varnir 4 4}, (description=Demla Ka) facing se}
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:213
+msgid "It is the only way."
+msgstr ""
+
+#. [event]: description=Varnir 4 4}, (description=Demla Ka) facing se}
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:214
+msgid "Madness, I say!  I'll not be a part of this!"
+msgstr ""
+
+#. [event]: description=Varnir 4 4}, (description=Demla Ka) facing se}
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:231
+msgid "To arms, drakes!  Let us slay the pretender as swiftly as we can!"
+msgstr ""
+
+#. [objectives]
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:234
+msgid "Kill Varnir"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:269
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:291
+msgid "My King, I return to your aid!"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:270
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:292
+msgid "I don't think he means me."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:299
+msgid "NO!  With my plans so close... to fruition..."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:316
+msgid "You will suffer for your impudence!  Guards, repel the attackers!"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:350
+msgid "My patience is exhausted.  Out of my way!"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:361
+msgid "Now you will pay for your treachery!"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:362
+msgid "You're one to speak.  Regar promised the throne to me!"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:367
+msgid ""
+"Regar's tomb.  We only finished building it a few days ago.  Will we ever "
+"have another leader so glorious?"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:376
+msgid "The tomb of Malakar - a great drake leader of ancient times."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:383
+msgid "The tomb of Kahn - a great drake leader of ancient times."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:402
+msgid ""
+"This fight has gone on too long.  My loyal drakes have lost faith in me."
+msgstr ""
+
+#. [event]: (description=Demla Ka) 5 6}
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:439
+msgid ""
+"You have won, Feralon.  I renounce all claim to the title Regar promised "
+"me.  Please, spare my life."
+msgstr ""
+
+#. [event]: (description=Demla Ka) 5 6}
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:440
+msgid ""
+"You are a liar and a coward!  You are unworthy to be called a drake!  Try to "
+"at least die like one."
+msgstr ""
+
+#. [event]: (description=Demla Ka) 5 6}
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:441
+msgid ""
+"WAIT!  You need me, Feralon.  Many are dissatisfied with your leadership.  I "
+"can keep my fire-breathers in line."
+msgstr ""
+
+#. [event]: (description=Demla Ka) 5 6}
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:442
+msgid "And then try to kill me again?"
+msgstr ""
+
+#. [event]: (description=Demla Ka) 5 6}
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:443
+msgid "That was Galgor's idea, Galgor's plan.  I never countenanced it!"
+msgstr ""
+
+#. [then]: description=Galgor 40 22}
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:448
+msgid "I think that's my cue to leave..."
+msgstr ""
+
+#. [event]: (description=Demla Ka) 5 6}
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:459
+msgid "More lies!  I'll silence your forked tongue once and for all."
+msgstr ""
+
+#. [event]: (description=Demla Ka) 5 6}
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:475
+msgid ""
+"Stop the fighting!  A vast legion of the dead is marching on us from the "
+"north!"
+msgstr ""
+
+#. [event]: (description=Demla Ka) 5 6}
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:476
+msgid "The current fighting will be over with one stroke of my blade."
+msgstr ""
+
+#. [event]: (description=Demla Ka) 5 6}
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:477
+msgid ""
+"It is an enormous host, Feralon.  Without Varnir's followers, we won't be "
+"able to stand against them."
+msgstr ""
+
+#. [event]: (description=Demla Ka) 5 6}
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:478
+msgid "As I said, you need me."
+msgstr ""
+
+#. [event]: (description=Demla Ka) 5 6}
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:479
+msgid "I should behead him now, brood-sister.  He'll never be loyal."
+msgstr ""
+
+#. [event]: (description=Demla Ka) 5 6}
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:480
+msgid "We can both see that.  But he's right - we do need him."
+msgstr ""
+
+#. [event]: (description=Demla Ka) 5 6}
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:481
+msgid "GAH!"
+msgstr ""
+
+#. [event]: (description=Demla Ka) 5 6}
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:482
+msgid "Drakes, take flight for the north.  Our homes are threatened!"
+msgstr ""
+
+#. [event]: (description=Demla Ka) 5 6}
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:483
+msgid "Varnir, one wrong move, and I swear that I'll..."
+msgstr ""
+
+#. [event]: (description=Demla Ka) 5 6}
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:484
+msgid "I won't so much as twitch without your say-so."
+msgstr ""
+
+#. [event]: (description=Demla Ka) 5 6}
+#: On_Crimson_Wings/scenarios/02_Pitting_Drake_Against_Drake.cfg:486
+msgid "You can now recruit Drake Burners."
+msgstr ""
+
+#. [scenario]: id=03_Harrying_the_Legions
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:18
+msgid "Harrying the Legions"
+msgstr ""
+
+#. [side]
+#. [scenario]: id=03_Harrying_the_Legions
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:54
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:124
+msgid "Undead Legions"
+msgstr ""
+
+#. [side]: type=Death Knight, description=Undead Captain
+#. [side]: type=Death Squire, type=Death Knight, description=Captain
+#. [side]: type=Death Knight, type=Death Squire, description=Captain
+#. [unit]: type=Death Knight, type=Death Squire, description=Captain
+#. [unit]: type=Death Knight, description=Captain
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:129
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:80
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:97
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:274
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:321
+msgid "Undead Captain"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:230
+msgid ""
+"There they are.  I can see two brigades of undead not far from us, and more "
+"brigades on the horizon."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:233
+msgid ""
+"Feralon, they are heading straight for the hatching grounds!  Our eggs and "
+"hatchlings..."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:234
+msgid "Can they be moved?"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:235
+msgid ""
+"Some can, but the eggs and youngest hatchlings will perish if removed from "
+"the heat."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:236
+msgid "Then we have to stop the undead.  Our people's future is at stake!"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:237
+msgid "What is your plan, oh great King?"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:238
+msgid ""
+"I will enlist a flight of bold drakes and true, and we will make a stand in "
+"the center of the valley."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:239
+msgid ""
+"And your bold drakes and true will be cut to pieces.  No, we must use the "
+"river to divide their forces, harry them from the safety of the mountains, "
+"and wear them down, bone by bone."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:240
+msgid "Just the plan I would expect from a coward!"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:241
+msgid "(It sounds much better than your plan.)"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:242
+msgid "What was that, brood-sister?"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:243
+msgid ""
+"We cannot match the undead in numbers.  We should listen to Varnir's counsel."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:244
+msgid ""
+"I will be glad to take the lead, with my fire-breathers, if you doubt my "
+"courage."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:245
+msgid "That has some appeal.  Cut to pieces, you said?"
+msgstr ""
+
+#. [objectives]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:250
+msgid "Prevent the undead from reaching the hatching grounds"
+msgstr ""
+
+#. [objectives]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:251
+msgid "Defeat the leaders of the undead legions (Bonus)"
+msgstr ""
+
+#. [objectives]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:253
+msgid "Any undead unit enters the hatching grounds"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:305
+msgid ""
+"Be wary, Feralon!  More undead have arrived, and these horrors look stronger."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:360
+msgid ""
+"This group of undead looks formidable, but at least I don't see more "
+"following after them."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:361
+msgid "I can see magical glyphs on their leader's armor.  Be wary of that one!"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:372
+msgid "Uneasy spirits of the dead, rise up and fight by my side!"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:373
+msgid "That can't possibly be good."
+msgstr ""
+
+#. [unit]: type={TYPE}
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:379
+msgid "Spectral Guardian"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:459
+msgid "Die, you undead horror!"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:460
+msgid ""
+"Hmm... with their leader dead, those undead have stopped moving toward the "
+"hatching grounds and are attacking wildly."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:480
+msgid ""
+"The Death Knight's special armor crumbles to dust along with its wearer."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:485
+msgid "How's THIS for a so-called coward?"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:490
+msgid "I see your weaknesses and strike at them."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:498
+msgid "The undead are destroying our eggs.  We have failed."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:505
+msgid "Look, the undead are retreating from the valley."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:507
+msgid "We have won the day!"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:508
+msgid ""
+"Curious.  If they had pressed on, they might have defeated us.  Why didn't "
+"they?"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:518
+msgid "We have won the day!  A glorious victory!"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:519
+msgid "I love the smell of burning skeletons in the morning."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:523
+msgid "Now, let us return home and celebrate!"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:524
+msgid "No."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:525
+msgid ""
+"Whoever sent these undead after us is still out there.  We will not be safe "
+"until we find and destroy their master."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:526
+msgid ""
+"At what cost?  Too many drakes have already died.  Varnir, can you make him "
+"see reason?"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:527
+msgid "Ha, you would turn to this coward for counsel?"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:528
+msgid "I agree with Feralon."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:529
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:530
+msgid "What?"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:531
+msgid ""
+"Don't look so shocked.  There is no shortage of dead bodies in the world.  "
+"The undead will be back in greater force unless we put an end to them at "
+"their source."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/03_Harrying_the_Legions.cfg:532
+msgid ""
+"Very well.  I know where we should look, then.  Most of those skeletons "
+"looked elven to me - and the host's path leads back toward the Gray Woods."
+msgstr ""
+
+#. [scenario]: id=04_Shrouded_Forest
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:17
+msgid "Shrouded Forest"
+msgstr ""
+
+#. [part]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:37
+msgid ""
+"As the drakes flew toward the Gray Woods, Feralon felt a sense of "
+"foreboding.  He kept a wary eye on Varnir, fully expecting that otherwise he "
+"would suddenly find Varnir's claws in his back."
+msgstr ""
+
+#. [part]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:41
+msgid ""
+"Further, he had no reason to expect a friendly reception from the forest-"
+"dwelling elves.  Under King Regar's rule, the drakes had repeatedly raided "
+"the elves.  Feralon remembered the raids as glorious victories, but he had "
+"an uncomfortable sense that the elves might feel differently."
+msgstr ""
+
+#. [part]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:45
+msgid ""
+"When the forest was in sight, Feralon's worries were multiplied.  The woods "
+"were shrouded in a murky and impenetrable fog.  Unable to scout the woods "
+"from the air, Feralon chose to land in a ruined castle near their southern "
+"border and investigate matters from there."
+msgstr ""
+
+#. [side]: type=Necrophage
+#. [side]: type=Death Knight, description=Undead Captain
+#. [side]
+#. [side]: type=Dark Sorcerer, type=Necromancer, description=Garyn
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:94
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:125
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:197
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:61
+msgid "Undead"
+msgstr ""
+
+#. [side]: type=Dark Sorcerer, type=Necromancer, description=Garyn
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:70
+msgid "Garyn"
+msgstr ""
+
+#. [side]: type=Lord of Decay, description=Leódir
+#. [side]: type=Corrupted Elder Wose, type=Corrupted Ancient Wose, description=Blackleaf
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:159
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:113
+msgid "Corrupted Woses"
+msgstr ""
+
+#. [side]: type=Corrupted Elder Wose, type=Corrupted Ancient Wose, description=Blackleaf
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:122
+msgid "Blackleaf"
+msgstr ""
+
+#. [side]: type=Elvish Shyde, description=Eódia
+#. [side]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:45
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:201
+msgid "Elves"
+msgstr ""
+
+#. [side]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:214
+msgid "Ghosts"
+msgstr ""
+
+#. [objectives]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:240
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:249
+msgid "An elf (Laviniel or Celondë) must reach the signpost to the north"
+msgstr ""
+
+#. [objectives]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:242
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:252
+msgid "Both shamans are killed"
+msgstr ""
+
+#. [objectives]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:250
+msgid "Slay the necromancer Garyn"
+msgstr ""
+
+#. [unit]: type=Elvish Shaman, description=Laviniel
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:308
+msgid "Laviniel"
+msgstr ""
+
+#. [unit]: type=Elvish Shaman, description=Celondë
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:322
+msgid "Celondë"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:353
+msgid ""
+"It's no use.  This path doesn't even look familiar - I swear the trees have "
+"moved."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:354
+msgid ""
+"Don't lose hope.  We know we need to head north, don't we?  Since when did "
+"elves need paths through the woods?"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:355
+msgid ""
+"Since the trees turned on us and the dead started walking?  Oh, I wish I'd "
+"told Móndir I loved him while I had the chance."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:374
+msgid ""
+"Drakes!  And I thought the situation couldn't get worse.  Ah well, at least "
+"we can hope for a clean death."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:375
+msgid ""
+"Will you stop that?  I'm sure we'll make it out of here alive... somehow..."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:377
+msgid ""
+"You, elves!  Are you responsible for the undead in this forest?  If so, "
+"prepare to die!"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:378
+msgid "I'm prepared, I'm prepared."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:379
+msgid ""
+"At least they're talking to us...  No, sir drake, we are not responsible for "
+"the undead.  They have trapped us here, separated us from our people."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:380
+msgid "I think she's telling the truth, Feralon."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:382
+msgid ""
+"We are not here to raid you, elves.  We are seeking to destroy the master of "
+"these walking dead.  Where can we find him?"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:383
+msgid ""
+"I really cannot say.  My sister and I had journeyed to this part of the "
+"forest to tend to the trees... Almost no one lives in the southern forest "
+"any more.  Suddenly the woods were full of undead, and the trees began to "
+"turn against us."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:384
+msgid "Could you guide us through these woods?"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:385
+msgid ""
+"The paths are no longer familiar, but if we could reach the northern woods, "
+"we could lead you to our Lady."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:387
+msgid ""
+"Varnir, what are you suggesting?  Do we really need the help of these elves?"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:388
+msgid "Without their guidance, we may stumble around in this forest forever."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:389
+msgid "The snake... ah, Varnir is right."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:390
+msgid ""
+"I'm starting to really dislike hearing that phrase.  All right, then.  "
+"Elves!  We will protect you in exchange for your guidance."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:392
+msgid ""
+"We will need to head north, but be wary of the undead and walking trees."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:398
+msgid "Wait.  You're actually not going to kill us?"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:399
+msgid "Oh, Lavi.  You haven't been keeping up with the conversation, have you?"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:400
+msgid ""
+"I was occupied in preparing myself for death.  Do I understand that you are "
+"seriously proposing to lead a group of bloodthirsty drakes to our home?"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:401
+msgid ""
+"The Lady would have rescued us if she were not hard-pressed.  The drakes "
+"seem to have common cause with us.  This is our best chance and may be our "
+"people's as well."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:426
+msgid "What under the sky was THAT?"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:427
+msgid ""
+"As I said, the trees have turned against us. It was once a wose, a guardian "
+"of the forest.  But some evil magic has corrupted it."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:428
+msgid "We must take great care in moving through the forest."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:458
+msgid ""
+"Is this a good idea?  Shouldn't some large, strong drakes stand between me "
+"and the enemy?"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:463
+msgid "Get back, unnatural thing!"
+msgstr ""
+
+#. [event]: race=elf}
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:468
+msgid "Protect me as you promised!"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:473
+msgid "I knew... this would happen..."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:478
+msgid "I guess... Laviniel was right..."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:483
+msgid "There's some gold in an old chest here!"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:485
+msgid "You retrieve $gold_amount gold."
+msgstr ""
+
+#. [unit]: type=Outlaw, description=Torr
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:497
+msgid "Torr"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:510
+msgid ""
+"Walking dead, murderous trees, and now giant flying lizards.  What a week!"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:511
+msgid "I am a mighty drake, not a lizard."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:512
+msgid "What's the difference?"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:518
+msgid "An elf!  You people have really let this forest get out of control."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:519
+msgid "What do you mean, let it get out of control?"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:520
+msgid ""
+"Walking dead, murderous trees, and I think I just spotted a giant flying "
+"lizard.  Aren't you supposed to stop this sort of thing from happening?"
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:523
+msgid ""
+"A merman!  Er, merfolkman.  Mer.  What are you doing up here on dry land?"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:529
+msgid "Who are you?"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:530
+msgid ""
+"My name's Torr.  I've found this forest a safe place to take refuge from my "
+"creditors.  Until now, that is.  Say, do you happen to be on your way out of "
+"the forest?"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:531
+msgid "No, we are headed deeper into it to confront the source of the evil."
+msgstr ""
+
+#. [message]: description=Torr
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:534
+msgid ""
+"That doesn't sound nearly as appealing.  Still, I'll never survive against "
+"these things on my own.  Do you mind if I accompany you?"
+msgstr ""
+
+#. [option]: description=Torr
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:537
+msgid "You can come with us, but you may have to fight."
+msgstr ""
+
+#. [command]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:539
+msgid "Fair enough.  My prowess with the mace and sling is legendary!"
+msgstr ""
+
+#. [command]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:540
+msgid "Really?"
+msgstr ""
+
+#. [command]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:541
+msgid "No!  But I can defend myself."
+msgstr ""
+
+#. [command]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:543
+msgid ""
+"Be careful if you head north.  I've seen ghosts around the ruined castle at "
+"night."
+msgstr ""
+
+#. [option]: description=Torr
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:550
+msgid "No, we wouldn't be able to protect you."
+msgstr ""
+
+#. [command]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:552
+msgid "Fair enough.  I'll just stay here and... try not to die, then."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:573
+msgid ""
+"The woses and the undead are fighting each other?  I thought that they were "
+"working together."
+msgstr ""
+
+#. [unit]: type=Merman Netcaster, description=Jula
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:582
+msgid "Jula"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:596
+msgid ""
+"Greetings, shaman.  Are you here to fight against the evil in these woods?"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:597
+msgid ""
+"I am doing what I can, though presently I am trying to rejoin my people."
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:600
+msgid ""
+"A $unit.race?  Are you in league with the creatures that have invaded these "
+"woods?"
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:601
+msgid "No!  We are working with some elves to fight against them."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:605
+msgid "In that case, I would be honored to fight at your side."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:614
+msgid ""
+"The road east from here appears to have been cleared and repaired recently."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:624
+msgid "Beware!  That ruined castle is said to be haunted!"
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:627
+msgid ""
+"I remember a story... poor Laviniel once told me... That ruined castle is "
+"said to be haunted."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:640
+msgid ""
+"I can see a pile of gold coins, but my hand passes through them when I try "
+"to pick them up."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:675
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:677
+msgid "Sindelas"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:680
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:681
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:683
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:685
+msgid "Lost Soul"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:690
+msgid "WHO HAS DISTURBED MY ENDLESS SLEEP?  YOU WILL JOIN ME IN DEATH."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:691
+msgid "Aaagh!"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:692
+msgid "What did I say about this castle?"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:700
+msgid ""
+"I can rest after... all these years?  Thank you, strangers...  I have no "
+"more need... of gold... under the... oak tree...."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:705
+msgid ""
+"Remembering the ghost's words, you search under the tree and discover "
+"$gold_amount gold."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:727
+msgid "What in all the world are you?  No matter.  Slay them, my minions!"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:733
+msgid ""
+"Ah, an elf.  I wondered when your people would show up.  Slay them, my "
+"minions!"
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:736
+msgid "An interloper!  Slay them, my minions!"
+msgstr ""
+
+#. [then]
+#. [else]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:741
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:858
+msgid ""
+"This necromancer may have sent the undead to attack our home!  He must be "
+"slain!"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:752
+msgid "Ah, death, I pass into your arms..."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:756
+msgid "Did you send the undead to attack our people?"
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:759
+msgid "Did you send the undead to attack the drakes?"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:762
+msgid ""
+"No, I... hoped to learn from her, but she... wouldn't even speak to me..."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:763
+msgid "She?  Who?"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:768
+msgid "Confound it!  We'll learn nothing more from him."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:780
+msgid "I am the mighty Blackleaf!  Tremble before me, weaklings!"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:781
+msgid "Blackleaf?  That's not a wose name."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:782
+msgid "And I am no longer a wose.  I am become something... greater."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:799
+msgid ""
+"A pity to slay such an ancient creature, but it left us no choice.  Let us "
+"hasten to the north woods!"
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:802
+msgid ""
+"Poor Celondë would have thought it a pity to slay such an ancient creature, "
+"but it left us no choice.  Let us hasten to the north woods!"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:815
+msgid "No, Celondë!  Tell me I was wrong!  Tell me this isn't happening!"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:816
+msgid "After you gave your word to protect her, Feralon.  That must sting."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:817
+msgid "I swear to you, Laviniel, you will live to honor your sister's memory."
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:820
+msgid "Your word isn't worth much, is it, Feralon?"
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:821
+msgid "With both elves dead, we will never find our enemy."
+msgstr ""
+
+#. [event]
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:888
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:832
+msgid "No, Laviniel!  Please don't die!"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:833
+msgid ""
+"It is too late.  Celondë, I am shamed by my failure to protect your sister, "
+"but I swear that I will not fail you."
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:836
+msgid ""
+"Not you too, Laviniel!  Feralon, I swore an oath to protect her.  How did I "
+"fail?"
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:837
+msgid ""
+"The failure is mine.  With both elves dead, we will never find our enemy."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:852
+msgid "We can't leave without slaying that necromancer!"
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:857
+msgid "Leaving so soon?"
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:871
+msgid ""
+"We are close to my people's camp.  From here, I know the way.  Follow me!"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:881
+msgid ""
+"I scarcely dared to hope we would both survive, Feralon.  Thank you for "
+"protecting us."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:892
+msgid ""
+"I hear the cries of many elves perishing to the north.  We are too late!"
+msgstr ""
+
+#. [scenario]: id=05_Cauterizing_the_Corruption
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:15
+msgid "Cauterizing the Corruption"
+msgstr ""
+
+#. [side]: type=Elvish Shyde, description=Eódia
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:49
+msgid "Eódia"
+msgstr ""
+
+#. [side]: type=Lord of Decay, description=Leódir
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:163
+msgid "Leódir"
+msgstr ""
+
+#. [unit]: type=Elvish Hero, description=Móndir
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:265
+msgid "Móndir"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:492
+msgid ""
+"Laviniel!  Celondë!  I had all but given up hope.  How have you come to be "
+"here, in such strange company?"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:493
+msgid "We had given up hope as well..."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:494
+msgid "Speak for yourself."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:495
+msgid ""
+"But these drakes fought off the undead and woses and escorted us across the "
+"southern woods."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:501
+msgid ""
+"Laviniel!  I had all but given up hope.  Why are you in such strange "
+"company?  Where is Celondë?"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:502
+msgid ""
+"We had given up hope as well, when these drakes came to our rescue.  But "
+"Celondë... she didn't..."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:503
+msgid "I am sorry for your loss, Laviniel."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:504
+msgid "Mondir... thank you... I..."
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:507
+msgid ""
+"Celondë!  I had all but given up hope.  Why are you in such strange "
+"company?  Where is Laviniel?"
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:508
+msgid ""
+"These drakes agreed to protect us and fought bravely against the undead and "
+"woses.  But Laviniel... they couldn't..."
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:509
+msgid "Alas.  I will miss her."
+msgstr ""
+
+#. [event]: description=Laviniel 9 35}, description=Celondë 11 35}, description=Feralon 13 35}
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:515
+msgid "I would speak with your drake 'saviors.'  Drake lord, please approach."
+msgstr ""
+
+#. [event]: description=Laviniel 9 35}, description=Celondë 11 35}, description=Feralon 13 35}
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:525
+msgid "I am Feralon, King of the Crimsonwing Drakes."
+msgstr ""
+
+#. [event]: description=Laviniel 9 35}, description=Celondë 11 35}, description=Feralon 13 35}
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:526
+msgid ""
+"And I, Eódia, Lady of the Silver Wood.  What are your intentions in our "
+"forest?"
+msgstr ""
+
+#. [event]: description=Laviniel 9 35}, description=Celondë 11 35}, description=Feralon 13 35}
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:527
+msgid ""
+"Our home was attacked by an army of undead.  We have come seeking vengeance "
+"upon them."
+msgstr ""
+
+#. [event]: description=Laviniel 9 35}, description=Celondë 11 35}, description=Feralon 13 35}
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:528
+msgid ""
+"Then we have common cause.  We believed we had the undead contained after "
+"many of them left to march south.  But then a foul corruption began "
+"spreading through the forest, turning the woses against us."
+msgstr ""
+
+#. [event]: description=Laviniel 9 35}, description=Celondë 11 35}, description=Feralon 13 35}
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:529
+msgid "We observed the woses and the undead fighting against each other."
+msgstr ""
+
+#. [event]: description=Laviniel 9 35}, description=Celondë 11 35}, description=Feralon 13 35}
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:530
+msgid ""
+"That has not been the case here.  Together, they have taken and defiled our "
+"fortresses, leveled and flooded the surrounding land.  For several days we "
+"have been besieged in this citadel."
+msgstr ""
+
+#. [event]: description=Laviniel 9 35}, description=Celondë 11 35}, description=Feralon 13 35}
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:531
+msgid ""
+"Many brave elves have fallen.  The last of our scouts reported a great host "
+"of undead in the fog.  I fear this night will be our last."
+msgstr ""
+
+#. [event]: description=Laviniel 9 35}, description=Celondë 11 35}, description=Feralon 13 35}
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:532
+msgid ""
+"As you say, we have a common cause.  My warriors will aid you in destroying "
+"these undead."
+msgstr ""
+
+#. [event]: description=Laviniel 9 35}, description=Celondë 11 35}, description=Feralon 13 35}
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:533
+msgid ""
+"I thank you.  We gladly accept your aid.  Our villagers will supply you with "
+"anything they can.  Prepare yourselves for the coming darkness."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:539
+msgid ""
+"Laviniel and Celondë, aid the drakes.  Feralon, I task you with their "
+"continued protection."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:545
+msgid ""
+"Laviniel, aid the drakes.  Feralon, I task you with her continued protection."
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:548
+msgid ""
+"Celondë, aid the drakes.  Feralon, I task you with her continued protection."
+msgstr ""
+
+#. [objectives]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:556
+msgid "Defend the elven citadel and survive the night"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:604
+msgid "Darkness comes!  Elves and drakes, prepare yourselves!"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:605
+msgid ""
+"I don't understand.  You trust us to defend your home, after our people have "
+"raided yours again and again?"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:606
+msgid "Now may not be the best time to raise that question, brood-sister."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:607
+msgid ""
+"Sister?  I do not believe I have seen a female drake before.  I had the "
+"impression they were not thinking beings."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:608
+msgid ""
+"Many male drakes are pleased to think so, but the females of my acquaintance "
+"would disagree.  Few of us travel beyond our homeland, and the untrained eye "
+"cannot tell us from males in any case."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:609
+msgid ""
+"To answer your question, I have seen many generations of Crimsonwing "
+"Drakes.  With some, we have fought.  With others, we have peacefully "
+"traded.  I will judge you by your actions now."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:610
+msgid "Besides, Demla, what choice do they have?"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:618
+msgid ""
+"I can feel the dark energies in this forest growing stronger.  With every "
+"stroke of midnight, our enemies grow in strength."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:623
+msgid "Delightful."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:635
+msgid ""
+"I doubt the undead will ever stop coming of their own accord.  How do we "
+"propose to stop them?"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:639
+msgid ""
+"I can feel the corruption spreading through the forest.  Somewhere, there is "
+"some... vessel, some creature or object, which is the source of that "
+"corruption."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:640
+msgid ""
+"If we can locate and destroy that vessel, we can put an end to the "
+"corruption of the woses.  Some corrupted woses may even be restored."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:641
+msgid ""
+"To stop the undead attacks, though, I fear we must locate and destroy their "
+"master.  I sense an ominous presence in the east, but cannot say where."
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:644
+msgid "As you once said, we have to strike at their source."
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:645
+msgid ""
+"These attacking undead seem mindless.  Somewhere, they must have a leader, "
+"and the corruption in the forest must also be spreading from some point."
+msgstr ""
+
+#. [objectives]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:650
+msgid "Find and destroy the source of the corruption"
+msgstr ""
+
+#. [objectives]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:651
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:771
+msgid "Find and destroy the leader of the undead"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:664
+msgid ""
+"Their power grows again.  Seek out and strike at the heart of their "
+"corruption!"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:665
+msgid "How can you sense the change in their power?"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:666
+msgid ""
+"I am one with the heart of the forest.  I sense its suffering, the evil "
+"eating away at it..."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:667
+msgid "Either that, or she's noticed a pattern and can tell time."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:689
+msgid ""
+"Oh!  The corruption in the forest grows so strong... I fear it will not be "
+"long before every tree turns against us..."
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:692
+msgid ""
+"I have a horrible feeling about what's happening in the forest.  If we don't "
+"stop the corruption soon, I fear every tree will turn against us."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:717
+msgid ""
+"Hurry, Feralon!  Even with Leódir laid to rest, there is a spreading evil in "
+"the heart of the forest.  Strike down the lich while it can still be stopped!"
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:720
+msgid ""
+"I have a horrible feeling that even with Leódir laid to rest, the forest is "
+"soon to be overtaken by darkness.  We must strike down the lich!"
+msgstr ""
+
+#. [event]: (description=Leódir)}
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:735
+msgid ""
+"What is that thing?  I can see violet energy radiating from it into the "
+"forest and the corrupted woses."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:739
+msgid "I feared this.  Oh, Leódir, what have they done to you?"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:743
+msgid "What, that thing is a friend of yours?"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:744
+msgid ""
+"Show some respect!  Leódir was a great leader of our people, before he died "
+"fighting orcs many years ago."
+msgstr ""
+
+#. [event]: (description=Leódir)}
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:749
+msgid ""
+"I think we can safely assume that this haunt is the source of the corruption."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:753
+msgid ""
+"Yes, he must be laid to rest.  But he is not commanding the undead... that "
+"baleful presence lies elsewhere."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:759
+msgid ""
+"That tortured face... I think he is Leódir, once a great leader of our "
+"people.  We must lay him to rest... but I fear some greater evil directs him."
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:762
+msgid "Yes, but is he the leader of the undead as well?"
+msgstr ""
+
+#. [objectives]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:770
+msgid "Lay Leódir to rest"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:785
+msgid "That looks like it was once a drake!  How is that possible?"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:789
+msgid "Many a drake has fought and died in this forest over the centuries."
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:792
+msgid ""
+"We left fallen comrades behind when we raided this forest.  Doubtless others "
+"have fallen here over the years."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:798
+msgid ""
+"And for what?  I will never understand why your kind seeks out pointless "
+"battle."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:799
+msgid "So that we can be prepared when a day like today comes."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:813
+msgid "Móndir, what are you thinking?  Don't go out there!"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:814
+msgid "The corruption must be opposed!"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:819
+msgid ""
+"Lavi, didn't you have something you wanted to tell Móndir?  Now might be a "
+"good time."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:820
+msgid "Hush!  Can't you see he's busy?  Oh, I hope he will be all right..."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:827
+msgid "Our forest will be freed of your corruption!"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:835
+msgid "Móndir!  No!  I never told him how I really felt..."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:836
+msgid "I think he knew, Lavi."
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:839
+msgid "So passes a great champion of the forest.  You will be missed, Móndir."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:847
+msgid "Back, creature of corruption!  Our citadel will not fall while I live!"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:852
+msgid "They are attacking our Lady!  Feralon, we have to help her!"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:860
+msgid "Móndir, I fear you must lead our people now..."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:861
+msgid "My Lady... I doubt I can shoulder this burden... but I will try..."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:864
+msgid "Fight on, Feralon... the forest... must be free..."
+msgstr ""
+
+#. [event]: description=Móndir canrecruit yes}
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:870
+msgid ""
+"She is gone... how can this be?  I remember her laughter... I shall never "
+"laugh again."
+msgstr ""
+
+#. [event]: description=Móndir canrecruit yes}
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:871
+msgid "Death comes to us all... Somehow, I always thought she was exempt."
+msgstr ""
+
+#. [event]: description=Móndir canrecruit yes}
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:872
+msgid "What a sad loss.  I wish I could have known her better."
+msgstr ""
+
+#. [event]: description=Móndir canrecruit yes}
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:873
+msgid "We must see to it that she is avenged."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:878
+msgid "I knew... I wouldn't make it through this..."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:883
+msgid "Feralon... don't let me die in vain..."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:889
+msgid "Alas!  I will grieve for you, Laviniel, when there is time."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:890
+msgid "And she never knew how I felt about her..."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:891
+msgid ""
+"We will all miss her.  We must fight on, so that she can live in our "
+"memories."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:905
+msgid "No, Celondë!  Tell me this isn't happening!"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:906
+msgid ""
+"I had thought that one day... she might take my place.  I never thought to "
+"outlive her."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:907
+msgid ""
+"Who knew that a tiny elf could be so brave?  I will fight now in her name."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:928
+msgid ""
+"The way is blocked by a mass of entangled vines.  They look dead but resist "
+"all attempts to cut or burn them."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:944
+msgid "Could that have been the leader of the undead?"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:948
+msgid ""
+"No, merely a nearly-mindless servitor.  But laying it to rest may have "
+"slowed the undead assault."
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:951
+msgid ""
+"I doubt it... It seemed more like another servant.  I hope that slaying it "
+"will at least slow the enemy assault."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:971
+msgid "Could this knight have been the leader of the undead?"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:972
+msgid ""
+"No, it seemed of the same ilk as the captains of the legions that attacked "
+"us."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:973
+msgid ""
+"Indeed, another nearly-mindless servitor.  Still, depriving our enemy of its "
+"captains is worthwhile."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:982
+msgid "Ah, to rest.... forgive me, Eódia, for all that I have done..."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:990
+msgid ""
+"Of course I forgive you, my love.  How could you imagine I would not?  Sleep "
+"now."
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:993
+msgid ""
+"You and she are joined in death now, Leódir.  I know she would forgive you."
+msgstr ""
+
+#. [unit]: type=Ancient Wose, description=Temtundembun
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1044
+msgid "Temtundembun"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1051
+msgid ""
+"It is as if we have awakened from a deep sleep, troubled by memories of an "
+"unhappy dream.  We have done wrong.  What can we do to remedy these wrongs?"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1055
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1061
+msgid "Join us in striking down the evil in this forest!"
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1064
+msgid "Join us in avenging the elves against the evil in this forest!"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1069
+msgid "We gladly join you in this struggle."
+msgstr ""
+
+#. [unit]: type=Lich, type=Ancient Lich, description=Mal-Taryn
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1086
+msgid "Mal-Taryn"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1105
+msgid ""
+"How DARE you destroy my pet?  I will have to create another... perhaps in "
+"the corpse of yonder elven queen."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1106
+msgid "What manner of horror are you?  Why have you desecrated our forest?"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1107
+msgid "Why did you attack my people?"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1108
+msgid ""
+"I do not answer to the likes of you.  Slay them, my minions!  Let nothing "
+"that breathes remain in these woods!"
+msgstr ""
+
+#. [objectives]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1115
+msgid "Destroy the lich, Mal-Taryn"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1122
+msgid "And so... I make... my amends"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1128
+msgid "Rest peacefully, great wose.  The forest forgives you."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1133
+msgid ""
+"I can scarcely believe such a thing possible.  Defeated... by you weaklings?"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1137
+msgid "You shall never threaten us again!"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1138
+msgid "Poor deluded fool.  Your people are doomed already."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1144
+msgid "Our forest is purified of your taint!"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1145
+msgid ""
+"Poor deluded fool.  Your forest was never our goal... in my destruction lies "
+"your defeat..."
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1148
+msgid "No longer shall your kind threaten the drakes and elves!"
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1149
+msgid "Poor deluded fool.  The drakes are doomed already."
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1169
+msgid "Undead are bursting from every corner of the forest!"
+msgstr ""
+
+#. [then]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1170
+msgid "They have grown too strong.  The forest is lost to us."
+msgstr ""
+
+#. [else]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1173
+msgid "Undead are bursting from every corner of the forest!  We are lost!"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1182
+msgid "What could she have meant?"
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1183
+msgid ""
+"The bag of bones most likely sought only to rob us of the joy of victory.  "
+"I'm sure she was lying."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1184
+msgid "But she was not."
+msgstr ""
+
+#. [event]
+#: On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1185
+msgid ""
+"This is the end of Part I of 'On Crimson Wings.'  If you save your game now, "
+"you can load it to continue on to Part II when it is released."
+msgstr ""
+
+#. [scenario]: id=05x_Forest_Interlude
+#: On_Crimson_Wings/scenarios/05x_Forest_Interlude.cfg:4
+msgid "A Forest Interlude"
+msgstr ""
+
+#. [part]
+#: On_Crimson_Wings/scenarios/05x_Forest_Interlude.cfg:15
+msgid "To be continued..."
+msgstr ""
+
+#. [unit]: id=Corrupted Ancient Wose, race=wose
+#: On_Crimson_Wings/units/Corrupted_Ancient.cfg:4
+msgid "Corrupted Ancient Wose"
+msgstr ""
+
+#. [unit]: id=Corrupted Ancient Wose, race=wose
+#: On_Crimson_Wings/units/Corrupted_Ancient.cfg:19
+msgid ""
+"It is difficult to believe that a truly ancient wose could fall prey to "
+"corruption.  Such a wose would be an incredibly deadly foe."
+msgstr ""
+
+#. [attack]: type=impact
+#: On_Crimson_Wings/units/Corrupted_Wose.cfg:31
+#: On_Crimson_Wings/units/Corrupted_Ancient.cfg:91
+#: On_Crimson_Wings/units/Corrupted_Elder.cfg:90
+msgid "crush"
+msgstr ""
+
+#. [attack]: type=cold
+#: On_Crimson_Wings/units/Corrupted_Wose.cfg:40
+#: On_Crimson_Wings/units/Corrupted_Ancient.cfg:100
+#: On_Crimson_Wings/units/Corrupted_Elder.cfg:99
+msgid "icy breath"
+msgstr ""
+
+#. [unit]: id=Corrupted Elder Wose, race=wose
+#: On_Crimson_Wings/units/Corrupted_Elder.cfg:4
+msgid "Corrupted Elder Wose"
+msgstr ""
+
+#. [unit]: id=Corrupted Elder Wose, race=wose
+#: On_Crimson_Wings/units/Corrupted_Elder.cfg:18
+msgid ""
+"A corrupted elder wose is a powerful and deadly enemy.  While the cold sap "
+"that runs through its veins renders it physically weaker than a normal wose, "
+"it can still deliver a punishing blow.  Also, it can breathe out a deathly "
+"cold cloud of ice."
+msgstr ""
+
+#. [unit]: id=Corrupted Wose, race=wose
+#: On_Crimson_Wings/units/Corrupted_Wose.cfg:4
+msgid "Corrupted Wose"
+msgstr ""
+
+#. [unit]: id=Corrupted Wose, race=wose
+#: On_Crimson_Wings/units/Corrupted_Wose.cfg:21
+msgid ""
+"Normally, a wose is a dedicated warden of the natural world.  A corrupted "
+"wose has been infused with evil energies that cause an icy sap to run "
+"through its limbs.  This change physically weakens the wose even as it "
+"protects the wose against both heat and cold.  It also fills the wose with a "
+"passionate hatred for all things living.\n"
+"\n"
+"Corrupted woses are less strong than a normal wose, but still possess great "
+"strength.  They can also breathe forth a freezing cloud of icy crystals."
+msgstr ""
+
+#. [unit]: id=Demla1
+#: On_Crimson_Wings/units/Demla1.cfg:15
+msgid ""
+"Demla Ka is Feralon's brood-sister.  Filled from youth with a desire to "
+"explore, she has spent much time on the wing, exploring the lands around her "
+"home.\n"
+"    \n"
+"Sky drakes are truly at home in the sky. The momentum of their terrible "
+"stooping dive and and their fire breath combine into a terrible weapon. By "
+"attacking from the air, they can spit fire with great precision into "
+"positions which would otherwise afford a great defensive advantage to their "
+"foes."
+msgstr ""
+
+#. [unit]: id=Demla2
+#: On_Crimson_Wings/units/Demla2.cfg:12
+msgid ""
+"Demla Ka is Feralon's brood-sister.  Fiercely loyal to her brother, she has "
+"learned through combat experience to strike her enemies like a bolt of "
+"lightning.\n"
+"    \n"
+"Masters of the aerial realm, the Hurricane Drakes are the elite among those "
+"drakes which are gifted with flight. Soaring high in the air, they can see "
+"past most defensive cover and spit fire at their foes with impunity."
+msgstr ""
+
+#. [advancement]: id=toughened
+#: On_Crimson_Wings/units/Varnir3.cfg:16
+#: On_Crimson_Wings/units/Feralon3.cfg:17 On_Crimson_Wings/units/Demla2.cfg:16
+msgid "Toughened by battle (+5 hit points)"
+msgstr ""
+
+#. [advancement]: id=skirmish
+#: On_Crimson_Wings/units/Demla2.cfg:28
+msgid "Able to slip past enemy units (gain the skirmisher ability)"
+msgstr ""
+
+#. [advancement]: id=marksman_slam
+#: On_Crimson_Wings/units/Demla2.cfg:42
+msgid ""
+"Able to dive with deadly accuracy (gain marksman ability with slam attack)"
+msgstr ""
+
+#. [advancement]: id=heal
+#: On_Crimson_Wings/units/Demla2.cfg:57
+msgid "Taught basic healing skills by the elven shamans"
+msgstr ""
+
+#. [advancement]: id=net
+#: On_Crimson_Wings/units/Demla2.cfg:72
+msgid "Taught to use a net (gain net attack which slows the target)"
+msgstr ""
+
+#. [advancement]: id=dodge
+#: On_Crimson_Wings/units/Varnir3.cfg:71 On_Crimson_Wings/units/Demla2.cfg:134
+msgid "Taught by Torr to dodge more quickly (+5% to all defenses)"
+msgstr ""
+
+#. [advancement]: id=flame
+#: On_Crimson_Wings/units/Demla2.cfg:164
+msgid "Taught by Varnir to stoke the fire inside (+2 fire breath damage)"
+msgstr ""
+
+#. [advancement]: id=caving
+#: On_Crimson_Wings/units/Demla2.cfg:178
+msgid "Taught by the goblins to move easily through caves"
+msgstr ""
+
+#. [unit]: id=Feralon1
+#: On_Crimson_Wings/units/Feralon1.cfg:12
+msgid ""
+"Feralon is the son and heir of the dead King Regar of the Crimsonwing "
+"Drakes.  Though young and relatively inexperienced, Feralon is widely "
+"respected for his strength and bravery.\n"
+"    \n"
+"Drake Fighters wield curved scimitars, and possess the fire breathing skills "
+"of their ancestors. They can also fly, which is troubling to any foe. Their "
+"great strength, coupled with their hardened scales, is rightly frightening "
+"to swordsmen of any other race."
+msgstr ""
+
+#. [unit]: id=Feralon2
+#: On_Crimson_Wings/units/Feralon2.cfg:12
+msgid ""
+"Feralon is the son and heir of the dead King Regar of the Crimsonwing "
+"Drakes.  Having gained some fighting experience, his strength and courage "
+"are nearly unmatched.\n"
+"    \n"
+"Drake Warriors wield swords with great skill, and possess the fire breathing "
+"skills of their ancestors. The great strength of their kind allows them to "
+"strike devastating blows, and to withstand punishment in equal measure."
+msgstr ""
+
+#. [unit]: id=Feralon3
+#: On_Crimson_Wings/units/Feralon3.cfg:13
+msgid ""
+"Feralon is the son and heir of the dead King Regar of the Crimsonwing "
+"Drakes.  Now a seasoned warrior, his strength and courage are rivalled only "
+"by legendary drakes of old.\n"
+"    \n"
+"The drakes who master the use of a sword are sworn into a special order. The "
+"mark of their initiation is the black-and-white warpaint they display in "
+"battle."
+msgstr ""
+
+#. [advancement]: id=sword_damage
+#: On_Crimson_Wings/units/Feralon3.cfg:29
+msgid "A stronger swordsman (+3 scimitar damage)"
+msgstr ""
+
+#. [advancement]: id=sword_swings
+#: On_Crimson_Wings/units/Feralon3.cfg:42
+msgid "A quicker swordsman (+1 attack with the scimitar, but -2 damage)"
+msgstr ""
+
+#. [advancement]: id=spear
+#: On_Crimson_Wings/units/Feralon3.cfg:57
+msgid ""
+"Trained in the use of the spear (gain a piercing attack with first strike)"
+msgstr ""
+
+#. [advancement]: id=spear_damage
+#: On_Crimson_Wings/units/Feralon3.cfg:126
+msgid "A better spearman (+2 spear damage)"
+msgstr ""
+
+#. [advancement]: id=armor
+#: On_Crimson_Wings/units/Feralon3.cfg:140
+msgid "Armor improved by the Clashers (+10% resistance to physical attacks)"
+msgstr ""
+
+#. [advancement]: id=armor2
+#: On_Crimson_Wings/units/Feralon3.cfg:157
+msgid ""
+"Armor further improved by the Clashers (+20% resistance to piercing attacks)"
+msgstr ""
+
+#. [advancement]: id=leader
+#: On_Crimson_Wings/units/Feralon3.cfg:173
+msgid "Study how Varnir motivates the troops (gain leadership ability)"
+msgstr ""
+
+#. [unit]: id=Lord of Decay, race=undead
+#: On_Crimson_Wings/units/Lord_of_Decay.cfg:4
+msgid "Lord of Decay"
+msgstr ""
+
+#. [unit]: id=Lord of Decay, race=undead
+#: On_Crimson_Wings/units/Lord_of_Decay.cfg:19
+msgid ""
+"The Lord of Decay is the spectral remnant of a great elven lord or lady, "
+"corrupted and enslaved by necromantic magic.  The elf's considerable magical "
+"powers are perverted into a deadly touch and a blast of ice.\n"
+"    \n"
+"Fortunately, Lords of Decay are very rare.  Only a few have ever been "
+"created."
+msgstr ""
+
+#. [attack]: type=arcane
+#: On_Crimson_Wings/units/Lord_of_Decay.cfg:23
+msgid "touch"
+msgstr ""
+
+#. [attack]: type=cold
+#: On_Crimson_Wings/units/Lord_of_Decay.cfg:35
+msgid "faerie ice"
+msgstr ""
+
+#. [unit]: id=Varnir1
+#: On_Crimson_Wings/units/Varnir1.cfg:13
+msgid ""
+"Varnir, son of the dead King Regar of the Crimsonwing Drakes, insists that "
+"Regar promised the throne to him.  He is known for his cunning, cleverness, "
+"and persuasive tongue.\n"
+"    \n"
+"Drake Burners are the proud few in whom the blood and strength of their "
+"remote ancestors runs truest, giving them the ability to breathe fire. This, "
+"coupled with their sheer size and fearsome claws, makes them deadly foes in "
+"combat."
+msgstr ""
+
+#. [unit]: id=Varnir2
+#: On_Crimson_Wings/units/Varnir2.cfg:13
+msgid ""
+"Varnir, son of the dead King Regar of the Crimsonwing Drakes, insists that "
+"Regar promised the throne to him.  With experience in battle, he has learned "
+"to motivate and inspire his fellow drakes.\n"
+"    \n"
+"Drakes are an old race, wise enough to hearken to their own natural leaders. "
+"Those who are called 'flares' by their enemies are the drakes who aspire to "
+"be such leaders, both in war and in peace."
+msgstr ""
+
+#. [unit]: id=Varnir3
+#: On_Crimson_Wings/units/Varnir3.cfg:12
+msgid ""
+"Varnir, son of the dead King Regar of the Crimsonwing Drakes, insists that "
+"Regar promised the throne to him.  Through fighting at Feralon's side, "
+"however, he has honed his leadership skills and the heat of his flame.\n"
+"    \n"
+"It is said that the eldest lines of drakes - the direct descendants of the "
+"dragons themselves - have veins which course with fire rather than blood. "
+"That they can breathe fire as they do lends credence to this belief, though, "
+"for some reason, no one has tried cutting one open to find out."
+msgstr ""
+
+#. [advancement]: id=flame
+#: On_Crimson_Wings/units/Varnir3.cfg:28
+msgid "Stoke the fire inside (+2 fire breath damage)"
+msgstr ""
+
+#. [advancement]: id=leader
+#: On_Crimson_Wings/units/Varnir3.cfg:41
+msgid "A more inspiring leader (gain improved leadership ability)"
+msgstr ""
+
+#. [advancement]: id=forest
+#: On_Crimson_Wings/units/Varnir3.cfg:55
+msgid ""
+"Taught by the elvish shamans to seek cover in the forest (+20% defense in "
+"forests)"
+msgstr ""
+
+#. [advancement]: id=sword
+#: On_Crimson_Wings/units/Varnir3.cfg:101
+msgid "Taught by Feralon to use the sword more effectively (+2 sword damage)"
+msgstr ""
+
+#. [advancement]: id=fast
+#: On_Crimson_Wings/units/Varnir3.cfg:115
+msgid "Taught by Demla Ka to fly more swiftly (+1 movement)"
+msgstr ""
+
+#. [advancement]: id=poison
+#: On_Crimson_Wings/units/Varnir3.cfg:128
+msgid "Taught to add poison to a blade (sword attack becomes poisonous)"
+msgstr ""
