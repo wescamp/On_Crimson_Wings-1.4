@@ -1,2 +1,8 @@
+0.4.2
+  Fixed bug preventing Varnir's improved leadership AMLA from working.
+
+0.4.1
+  Fixed bug where eodia_alive was not set properly in scenario 5.
+
 0.4.0
   First public release.  First 5 scenarios complete.
