@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2009-01-21 01:13+0100\n"
+"POT-Creation-Date: 2009-01-26 11:50+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -50,7 +50,7 @@ msgstr ""
 msgid ""
 "Regar, king of the Crimsonwing Drakes, is dead.  Feralon, his son and heir, seeks to secure his throne and exact vengeance on those who have wronged his people.\n"
 "    \n"
-"Version 0.4.0\n"
+"Version 0.4.2\n"
 "5 scenarios (of 13?) completed and playable (if not finished)"
 msgstr ""
 
@@ -1497,7 +1497,7 @@ msgstr ""
 
 #. [event]
 #. [then]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:888 ./On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:832
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:889 ./On_Crimson_Wings/scenarios/04_Shrouded_Forest.cfg:832
 msgid "No, Laviniel!  Please don't die!"
 msgstr ""
 
@@ -1967,227 +1967,227 @@ msgid "We must see to it that she is avenged."
 msgstr ""
 
 #. [event]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:878
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:879
 msgid "I knew... I wouldn't make it through this..."
 msgstr ""
 
 #. [event]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:883
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:884
 msgid "Feralon... don't let me die in vain..."
 msgstr ""
 
 #. [event]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:889
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:890
 msgid "Alas!  I will grieve for you, Laviniel, when there is time."
 msgstr ""
 
 #. [event]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:890
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:891
 msgid "And she never knew how I felt about her..."
 msgstr ""
 
 #. [event]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:891
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:892
 msgid "We will all miss her.  We must fight on, so that she can live in our memories."
 msgstr ""
 
 #. [event]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:905
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:906
 msgid "No, Celondë!  Tell me this isn't happening!"
 msgstr ""
 
 #. [event]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:906
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:907
 msgid "I had thought that one day... she might take my place.  I never thought to outlive her."
 msgstr ""
 
 #. [event]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:907
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:908
 msgid "Who knew that a tiny elf could be so brave?  I will fight now in her name."
 msgstr ""
 
 #. [then]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:928
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:929
 msgid "The way is blocked by a mass of entangled vines.  They look dead but resist all attempts to cut or burn them."
 msgstr ""
 
 #. [then]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:944
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:945
 msgid "Could that have been the leader of the undead?"
 msgstr ""
 
 #. [then]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:948
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:949
 msgid "No, merely a nearly-mindless servitor.  But laying it to rest may have slowed the undead assault."
 msgstr ""
 
 #. [else]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:951
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:952
 msgid "I doubt it... It seemed more like another servant.  I hope that slaying it will at least slow the enemy assault."
 msgstr ""
 
 #. [then]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:971
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:972
 msgid "Could this knight have been the leader of the undead?"
 msgstr ""
 
 #. [then]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:972
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:973
 msgid "No, it seemed of the same ilk as the captains of the legions that attacked us."
 msgstr ""
 
 #. [then]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:973
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:974
 msgid "Indeed, another nearly-mindless servitor.  Still, depriving our enemy of its captains is worthwhile."
 msgstr ""
 
 #. [event]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:982
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:983
 msgid "Ah, to rest.... forgive me, Eódia, for all that I have done..."
 msgstr ""
 
 #. [then]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:990
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:991
 msgid "Of course I forgive you, my love.  How could you imagine I would not?  Sleep now."
 msgstr ""
 
 #. [else]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:993
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:994
 msgid "You and she are joined in death now, Leódir.  I know she would forgive you."
 msgstr ""
 
 #. [unit]: type=Ancient Wose, description=Temtundembun
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1044
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1045
 msgid "Temtundembun"
 msgstr ""
 
 #. [event]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1051
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1052
 msgid "It is as if we have awakened from a deep sleep, troubled by memories of an unhappy dream.  We have done wrong.  What can we do to remedy these wrongs?"
 msgstr ""
 
 #. [then]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1055 ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1061
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1056 ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1062
 msgid "Join us in striking down the evil in this forest!"
 msgstr ""
 
 #. [else]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1064
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1065
 msgid "Join us in avenging the elves against the evil in this forest!"
 msgstr ""
 
 #. [event]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1069
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1070
 msgid "We gladly join you in this struggle."
 msgstr ""
 
 #. [unit]: type=Lich, type=Ancient Lich, description=Mal-Taryn
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1086
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1087
 msgid "Mal-Taryn"
 msgstr ""
 
 #. [event]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1105
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1106
 msgid "How DARE you destroy my pet?  I will have to create another... perhaps in the corpse of yonder elven queen."
 msgstr ""
 
 #. [event]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1106
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1107
 msgid "What manner of horror are you?  Why have you desecrated our forest?"
 msgstr ""
 
 #. [event]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1107
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1108
 msgid "Why did you attack my people?"
 msgstr ""
 
 #. [event]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1108
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1109
 msgid "I do not answer to the likes of you.  Slay them, my minions!  Let nothing that breathes remain in these woods!"
 msgstr ""
 
 #. [objectives]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1115
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1116
 msgid "Destroy the lich, Mal-Taryn"
 msgstr ""
 
 #. [event]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1122
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1123
 msgid "And so... I make... my amends"
 msgstr ""
 
 #. [event]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1128
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1129
 msgid "Rest peacefully, great wose.  The forest forgives you."
 msgstr ""
 
 #. [event]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1133
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1134
 msgid "I can scarcely believe such a thing possible.  Defeated... by you weaklings?"
 msgstr ""
 
 #. [then]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1137
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1138
 msgid "You shall never threaten us again!"
 msgstr ""
 
 #. [then]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1138
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1139
 msgid "Poor deluded fool.  Your people are doomed already."
 msgstr ""
 
 #. [then]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1144
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1145
 msgid "Our forest is purified of your taint!"
 msgstr ""
 
 #. [then]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1145
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1146
 msgid "Poor deluded fool.  Your forest was never our goal... in my destruction lies your defeat..."
 msgstr ""
 
 #. [else]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1148
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1149
 msgid "No longer shall your kind threaten the drakes and elves!"
 msgstr ""
 
 #. [else]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1149
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1150
 msgid "Poor deluded fool.  The drakes are doomed already."
 msgstr ""
 
 #. [then]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1169
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1170
 msgid "Undead are bursting from every corner of the forest!"
 msgstr ""
 
 #. [then]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1170
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1171
 msgid "They have grown too strong.  The forest is lost to us."
 msgstr ""
 
 #. [else]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1173
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1174
 msgid "Undead are bursting from every corner of the forest!  We are lost!"
 msgstr ""
 
 #. [event]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1182
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1183
 msgid "What could she have meant?"
 msgstr ""
 
 #. [event]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1183
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1184
 msgid "The bag of bones most likely sought only to rob us of the joy of victory.  I'm sure she was lying."
 msgstr ""
 
 #. [event]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1184
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1185
 msgid "But she was not."
 msgstr ""
 
 #. [event]
-#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1185
+#: ./On_Crimson_Wings/scenarios/05_Cauterizing_the_Corruption.cfg:1186
 msgid "This is the end of Part I of 'On Crimson Wings.'  If you save your game now, you can load it to continue on to Part II when it is released."
 msgstr ""
 
@@ -2286,7 +2286,7 @@ msgid "Taught to use a net (gain net attack which slows the target)"
 msgstr ""
 
 #. [advancement]: id=dodge
-#: ./On_Crimson_Wings/units/Varnir3.cfg:71 ./On_Crimson_Wings/units/Demla2.cfg:134
+#: ./On_Crimson_Wings/units/Varnir3.cfg:77 ./On_Crimson_Wings/units/Demla2.cfg:134
 msgid "Taught by Torr to dodge more quickly (+5% to all defenses)"
 msgstr ""
 
@@ -2417,22 +2417,22 @@ msgid "A more inspiring leader (gain improved leadership ability)"
 msgstr ""
 
 #. [advancement]: id=forest
-#: ./On_Crimson_Wings/units/Varnir3.cfg:55
+#: ./On_Crimson_Wings/units/Varnir3.cfg:61
 msgid "Taught by the elvish shamans to seek cover in the forest (+20% defense in forests)"
 msgstr ""
 
 #. [advancement]: id=sword
-#: ./On_Crimson_Wings/units/Varnir3.cfg:101
+#: ./On_Crimson_Wings/units/Varnir3.cfg:107
 msgid "Taught by Feralon to use the sword more effectively (+2 sword damage)"
 msgstr ""
 
 #. [advancement]: id=fast
-#: ./On_Crimson_Wings/units/Varnir3.cfg:115
+#: ./On_Crimson_Wings/units/Varnir3.cfg:121
 msgid "Taught by Demla Ka to fly more swiftly (+1 movement)"
 msgstr ""
 
 #. [advancement]: id=poison
-#: ./On_Crimson_Wings/units/Varnir3.cfg:128
+#: ./On_Crimson_Wings/units/Varnir3.cfg:134
 msgid "Taught to add poison to a blade (sword attack becomes poisonous)"
 msgstr ""
 
